@@ -10,6 +10,9 @@ class Solution(object):
         :type head: ListNode
         :rtype: bool
         """
+
+        #Approach with space complexity of O(N)
+        """
         visited=set()
         current = head
         while current != None:
@@ -18,5 +21,14 @@ class Solution(object):
 
             visited.add(current)
             current=current.next
+        return False 
+        """
+        #Improved Version: Floyd’s Cycle Detection
+        fast=head
+        slow=head
+        while fast != None and fast.next != None:
+            slow = slow.next
+            fast = fast.next.next
+            if (slow == fast):
+                return True
         return False
-        
