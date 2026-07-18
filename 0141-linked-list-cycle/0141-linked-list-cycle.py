@@ -10,13 +10,13 @@ class Solution(object):
         :type head: ListNode
         :rtype: bool
         """
-        arr=[]
+        visited=set()
         current = head
         while current != None:
-            if current in arr:
+            if current in visited:
                 return True
 
-            arr.append(current)
+            visited.add(current)
             current=current.next
         return False
         
