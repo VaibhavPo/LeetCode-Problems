@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,9 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
