@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0560-subarray-sum-equals-k](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Linked List
 |  |
 | ------- |
@@ -58,4 +60,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
