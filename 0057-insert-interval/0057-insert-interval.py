@@ -19,10 +19,9 @@ class Solution(object):
                 last = i[1] 
                 Ans.append([first,last])
 
-            if last >= i[0] and last < i[1]:
-                Ans.remove([first,last])
+            if last >= i[0] and last < i[1]:                
                 last = i[1]
-                Ans.append([first,last])
+                Ans[-1][1] = last
 
 
         return Ans
