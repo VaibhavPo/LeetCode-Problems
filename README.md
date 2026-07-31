@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
