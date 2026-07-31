@@ -15,7 +15,7 @@ class Solution(object):
         def Traversal(root):
             if root is  None:
                 return
-            if len(a) <= k:
+            if len(a) < k:
                 Traversal(root.left)
                 a.append(root.val)
                 Traversal(root.right)
