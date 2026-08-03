@@ -16,6 +16,13 @@ class Solution(object):
         node = TreeNode(postorder[-1])
         mid = inorder.index(node.val)
 
-        node.right = self.buildTree(inorder[mid+1:],postorder[mid:-1])
-        node.left = self.buildTree(inorder[:mid],postorder[:mid])
+        node.left = self.buildTree(
+            inorder[:mid],
+            postorder[:mid]
+        )
+
+        node.right = self.buildTree(
+            inorder[mid+1:],
+            postorder[mid:-1]
+        )
         return node
