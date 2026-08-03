@@ -11,7 +11,7 @@ class Solution(object):
         :type inorder: List[int]
         :rtype: Optional[TreeNode]
         """
-        if not preorder or not inorder:
+        if not inorder or not preorder:
             return None
         root = TreeNode(preorder[0])
         mid = inorder.index(preorder[0])
