@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0275-h-index-ii](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0275-h-index-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Linked List
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0692-top-k-frequent-words](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0692-top-k-frequent-words](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0692-top-k-frequent-words) |
 ## Stack
 |  |
 | ------- |
@@ -134,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0692-top-k-frequent-words](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0692-top-k-frequent-words) |
 ## Matrix
 |  |
 | ------- |
@@ -208,8 +213,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0692-top-k-frequent-words](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
