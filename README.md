@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0162-find-peak-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0275-h-index-ii](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0275-h-index-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0704-binary-search) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0215-kth-largest-element-in-an-array](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0056-merge-intervals) |
+| [0215-kth-largest-element-in-an-array](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -201,4 +204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0113-path-sum-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
