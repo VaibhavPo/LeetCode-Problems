@@ -1,5 +1,6 @@
 # LeetCode-Problems
 #Imp Questions
+|--------|
 |  [*** 692. Top K Frequent Words] (https://github.com/VaibhavPo/LeetCode-Problems/tree/main/0692-top-k-frequent-words)|
 
 <!---LeetCode Topics Start-->
