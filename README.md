@@ -33,6 +33,7 @@
 | [0875-koko-eating-bananas](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1046-last-stone-weight](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/1046-last-stone-weight) |
 ## Hash Table
 |  |
 | ------- |
@@ -221,6 +222,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0692-top-k-frequent-words) |
+| [1046-last-stone-weight](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
