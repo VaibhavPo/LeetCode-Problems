@@ -25,6 +25,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0275-h-index-ii](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0275-h-index-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0724-find-pivot-index) |
@@ -77,6 +78,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0275-h-index-ii](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0275-h-index-ii) |
+| [0658-find-k-closest-elements](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
@@ -96,6 +98,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0658-find-k-closest-elements](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -115,6 +118,7 @@
 | [0018-4sum](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -215,6 +219,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
@@ -228,4 +233,8 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0692-top-k-frequent-words) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
