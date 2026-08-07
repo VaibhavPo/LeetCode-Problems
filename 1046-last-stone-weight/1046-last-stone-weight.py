@@ -10,7 +10,7 @@ class Solution(object):
         #     heap.append(-i)
         # hp.heapify(heap)
         heap = [-stone for stone in stones]
-        hp.heapify(heap)
+        heapq.heapify(heap)
         while len(heap) > 1:
             y = -hp.heappop(heap)    
             x = -hp.heappop(heap)
