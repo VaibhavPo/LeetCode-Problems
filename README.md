@@ -31,6 +31,7 @@
 | [0704-binary-search](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -110,6 +111,7 @@
 | [0022-generate-parentheses](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -230,6 +232,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0692-top-k-frequent-words) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1046-last-stone-weight](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
@@ -255,4 +258,8 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
+## Greedy
+|  |
+| ------- |
+| [0871-minimum-number-of-refueling-stops](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0871-minimum-number-of-refueling-stops) |
 <!---LeetCode Topics End-->
