@@ -22,6 +22,7 @@
 | [0152-maximum-product-subarray](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0275-h-index-ii](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0275-h-index-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -158,6 +159,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0994-rotting-oranges](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 ## Tree
@@ -183,6 +185,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0200-number-of-islands](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -207,6 +210,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0200-number-of-islands](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 ## String Matching
 |  |
@@ -265,4 +269,8 @@
 |  |
 | ------- |
 | [0871-minimum-number-of-refueling-stops](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0871-minimum-number-of-refueling-stops) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
