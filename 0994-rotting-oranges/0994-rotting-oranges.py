@@ -9,7 +9,7 @@ class Solution(object):
         col = len(grid[0])
         f_orange = 0
         rot = deque()
-        grid_c = deepcopy(grid)
+        # grid_c = deepcopy(grid)        
         for r in range(row):
             for c in range(col):
                 if grid[r][c] ==1:
@@ -27,12 +27,11 @@ class Solution(object):
                     r = x + dx
                     c = y + dy
                     
-                    if (0<= r < row and 0 <= c < col ) :
-                        if grid_c[r][c] == 1 :
-                            grid_c[r][c] = 2
+                    if (0<= r < row and 0 <= c < col ) and  grid[r][c] == 1  :
+                            grid[r][c] = 2
                             f_orange -= 1
                             rot.append([r , c])
-        print (grid_c)
+        # print (grid_c)
         if f_orange > 0:
             return -1
         return minute
