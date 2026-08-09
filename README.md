@@ -35,6 +35,7 @@
 | [0875-koko-eating-bananas](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/1046-last-stone-weight) |
 ## Hash Table
 |  |
@@ -158,6 +159,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0994-rotting-oranges](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 ## Tree
 |  |
 | ------- |
@@ -205,6 +207,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0994-rotting-oranges](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 ## String Matching
 |  |
 | ------- |
