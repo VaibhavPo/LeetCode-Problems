@@ -188,6 +188,7 @@
 | [0200-number-of-islands](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
+| [0743-network-delay-time](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0743-network-delay-time) |
 ## Binary Tree
 |  |
 | ------- |
@@ -211,6 +212,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0200-number-of-islands](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0200-number-of-islands) |
+| [0743-network-delay-time](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 ## String Matching
 |  |
@@ -239,6 +241,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0692-top-k-frequent-words) |
+| [0743-network-delay-time](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0743-network-delay-time) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1046-last-stone-weight](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/1046-last-stone-weight) |
 ## Quickselect
@@ -273,4 +276,16 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0200-number-of-islands) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
