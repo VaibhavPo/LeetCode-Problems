@@ -114,6 +114,7 @@
 | [0022-generate-parentheses](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Prefix Sum
 |  |
@@ -191,6 +192,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0743-network-delay-time](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Tree
 |  |
 | ------- |
@@ -216,6 +218,7 @@
 | [0127-word-ladder](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0743-network-delay-time](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 ## String Matching
 |  |
@@ -245,6 +248,7 @@
 | [0658-find-k-closest-elements](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1046-last-stone-weight](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/1046-last-stone-weight) |
 ## Quickselect
@@ -283,10 +287,12 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
