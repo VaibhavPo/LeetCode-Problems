@@ -45,6 +45,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0202-happy-number) |
@@ -137,6 +138,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0022-generate-parentheses) |
+| [0127-word-ladder](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0127-word-ladder) |
 | [0387-first-unique-character-in-a-string](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0692-top-k-frequent-words) |
 ## Stack
@@ -211,6 +213,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0127-word-ladder](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0743-network-delay-time](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0994-rotting-oranges) |
@@ -288,4 +291,8 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0743-network-delay-time) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
