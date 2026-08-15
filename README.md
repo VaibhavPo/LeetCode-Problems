@@ -67,6 +67,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0202-happy-number) |
 ## Recursion
 |  |
@@ -113,6 +114,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -301,4 +303,8 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0127-word-ladder) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
