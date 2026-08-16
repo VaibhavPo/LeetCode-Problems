@@ -6,6 +6,8 @@ class Solution(object):
         """
         n = len(nums)
         max_ind = 0
+        if 0 not in nums:
+            return True
         for i in range(n):
             if max_ind < i:
                 return False
