@@ -26,6 +26,7 @@
 | [0200-number-of-islands](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0275-h-index-ii](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0275-h-index-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
@@ -86,6 +87,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0275-h-index-ii](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0275-h-index-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0704-binary-search) |
@@ -118,6 +120,7 @@
 | [0070-climbing-stairs](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Prefix Sum
@@ -309,4 +312,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/VaibhavPo/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
